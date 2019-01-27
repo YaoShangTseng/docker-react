@@ -18,7 +18,7 @@ class App extends Component {
       alt = "logo" / >
       <
       p >
-      Carol & Shou <
+      Honestbee Shou <
       /p> <
       a className = "App-link"
       href = "https://reactjs.org"
